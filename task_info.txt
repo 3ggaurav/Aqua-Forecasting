@@ -1,0 +1,10 @@
+1.Aqua01.csv is the data file of field and aqua01.json is the info about the field.
+2.Forecast data for next 7 days for field pH,DO ,water temperature .
+3.you are free to use outside data example weather data from open source .
+4.the result format(csv) will have next 7 days of pH,DO and water temperature and pond id and timestamp .(forecast for every one hour)
+5.code using Jupyter or google colab , and have all plots saved .
+5.use commnets to descibe about code and algorithm used for task.
+
+
+Time	pH (moles/L)	DO (mg/L)	Water Temperature (‚ÑÉ)	Ammonia (mg/L)	Battery (Volts)	Solar (Volts)	Signal Strength (dB)
+
